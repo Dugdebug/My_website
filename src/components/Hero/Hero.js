@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import Dropdown from "../Dropdown/Dropdown";
 import Header from "../Header/Header";
-import selfImage from "../../Assets/my_photo.png"
+import selfImage from "../../Assets/my_photo_2.png"
 import {
   HeroContainer,
   HeroWrapper,
