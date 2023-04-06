@@ -1,4 +1,4 @@
-import dog from "../../Assets/dog.png"
+import doge from "../../Assets/doge.png"
 import React from "react";
 import { Nav, Logo, NavLink, Bars, NavMenu, NavBtn } from "./HeaderElements";
 
@@ -8,7 +8,7 @@ const Header = ({ toggle }) => {
       <Nav>
         <Logo to="/">
           <img
-            src={dog}
+            src={doge}
             alt="logo"
           />
         </Logo>
